@@ -1,6 +1,7 @@
 package com.example.splitwiseJul23Beginner.controllers;
 
 import com.example.splitwiseJul23Beginner.dtos.RegisterUserRequestDto;
+import com.example.splitwiseJul23Beginner.models.Transaction;
 import com.example.splitwiseJul23Beginner.models.User;
 import com.example.splitwiseJul23Beginner.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
